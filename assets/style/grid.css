@@ -103,3 +103,26 @@
     grid-area: imagem;
 }
 }
+
+@media screen and (min-width: 1900px){
+    .agenda__lista{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: repeat(2,1fr);
+        
+    }
+
+    .agenda__item{
+        width: 539px;
+    }
+
+    .eventos__lista{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-template-rows: repeat(2,1fr);
+    }
+
+    .eventos__item{
+        width: 400px;
+    }
+}

@@ -261,8 +261,8 @@ img:hover {
     background-color: var(--amarelo);
 }
 
-.eventos__botao button,
-.agenda__botao button {
+.eventos__botao,
+.agenda__botao{
     outline: none;
     border: none;
     background-color: black;
