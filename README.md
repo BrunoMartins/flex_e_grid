@@ -1,4 +1,4 @@
-<h1>flex-e-grid</h1>
+<h1>Culturama</h1>
 
 <h2>🔖 Sobre</h2>
 <p>Projeto desenvolvido durante o curso de html e css da alura com foco no display grid e flexbox.</p>
